@@ -2,9 +2,9 @@
 
 My name is Chris and I'm a web developer student from Brazil. I love coding and learning new languages.
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+### 🌱 I’m currently learning Data Structures and Algorithms.
 
-📚 Interests:
+### 📚 Interests:
 - Linux.
 - Web development.
 - Web Scraping.
