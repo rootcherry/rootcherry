@@ -2,7 +2,7 @@
 
 My name is Chris and I'm a web developer student from Brazil. I love coding and learning new languages.
 
-### 🌱 I’m currently learning Node.js | Laravel | reinforcing PHP - Java | moving to React - MongoDB
+### 🌱 I’m currently learning | Node.js - MongoDB - Microservices - React - Docker - Kubernetes | Angular + Spring | Laravel |  
 
 ### 📚 Interests:
 - C - C++ - JavaScript - Node.js
