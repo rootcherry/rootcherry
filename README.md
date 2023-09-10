@@ -4,10 +4,9 @@ I'm Chris a web developer student.
 
 ### 🌱 I’m currently learning:
 
-- GraphQL
-- Sockets with Node.js
+- Docker
+- Kubernetes
 - Microservices with Node JS and React
-- Next.js
 
 ### 📚 Interests:
 
