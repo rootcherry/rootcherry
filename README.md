@@ -1,4 +1,4 @@
-<h2> Hello there!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h2> I'm Chris.
+<h2> Hello there! I'm Chris. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
