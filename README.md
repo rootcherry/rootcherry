@@ -8,7 +8,7 @@ Backend & Data Systems enthusiast focused on building reliable data pipelines, c
 - 🐧 **Environment:** Comfortable with Linux, Bash, and backend tooling.
 
 📂 **Featured Repositories:**
-- [Horrorverse](https://github.com/rootcherry/horrorverse) — A data pipeline and ETL system (CS50 project).
+- [Horrorverse](https://github.com/rootcherry/horrorverse) — A data pipeline and ETL system.
 - [Curse Sanity Oracle](https://github.com/rootcherry/curse-sanity-oracle) — Clean Architecture & DDD exploration.
 - [C Programming & DSA](https://github.com/rootcherry/c-programming-and-data-structures) — Rigorous low-level implementation study (BITS Pilani inspired).
 
